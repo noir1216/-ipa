@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.touchingapp.potatsolite</string>
+                <string>com.noir1216.Shadowrocket</string>
                 <key>bundle-version</key>
-                <string>2.4.0</string>
+                <string>2.1.10</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>Potatso Lite</string>
+                <string>Shadowrocket</string>
             </dict>
         </dict>
     </array>
