@@ -17,9 +17,9 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.noir1216.Shadowrocket</string>
+                <string>com.liguangming.Shadowrocket</string>
                 <key>bundle-version</key>
-                <string>2.1.10</string>
+                <string>2.1.23</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
