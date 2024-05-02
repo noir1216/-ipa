@@ -1,9 +1,9 @@
 获取网站ico方法：
 网站域名后添加/favicon.ico
 
-CDN加速Github地址
-https://cdn.jsdelivr.net/gh/noir1216/icon/ico/南+.ico
+CDN加速Github地址，例如：
+https://cdn.jsdelivr.net/gh/noir1216/icon/
 
-https://cdn.jsdelivr.net/gh/noir1216/icon@1.0/ico
+https://cdn.jsdelivr.net/gh/noir1216/icon/ico/南+.ico
 
 https://cdn.jsdelivr.net/gh/noir1216/icon@master/ico/以图搜图.ico
